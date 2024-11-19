@@ -1,0 +1,3 @@
+ api_key=os.environ.get("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")
+ os.environ["GROQ_API_KEY"] = "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"
+ https://github.com/Manu1234-design/Jarvis-AI.git
